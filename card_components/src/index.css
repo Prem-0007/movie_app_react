@@ -1,0 +1,25 @@
+.card{
+  border:1px solid black;
+  max-width:250px;
+  border-radius:10px;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+  padding:20px;
+  margin:10px;
+  text-align: center;
+  display: inline-block;
+}
+.card .pfp{
+  max-width:60%;
+  height:auto;
+  border-radius:50%;
+  margin-bottom: 15px;
+}
+.card .card-title{
+  font-family: Arial, Helvetica, sans-serif;
+  margin:0;
+  color:#151414;
+}
+.card .card-text{
+  font-family:Arial, Helvetica, sans-serif ;
+  color:#686767;
+}
