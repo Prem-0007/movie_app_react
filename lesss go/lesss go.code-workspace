@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "lesss go",
+			"path": "."
+		},
+		{
+			"name": "movie_app",
+			"path": "../../../../movie_app"
+		}
+	],
+	"settings": {}
+}
